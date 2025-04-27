@@ -7,7 +7,7 @@
 
 ## 📸 Video
 
-
+![Video](app/video/video.gif)
 
 
 ---
@@ -17,7 +17,7 @@
 - Enter a **simple idea**( with image for more clear reference) (e.g., "dragon flying over mountains").
 - Let **local AI agents** understand and **enhance** your idea into a **perfect Stable Diffusion prompt**.
 - Copy and paste the result into **Stable Diffusion** or any AI image generator to get better art.
-- Optionally, **upload an image** to inspire future models (feature ready for expansion).
+- Optionally, **upload an image** understanding the posture or postion you may want in the image. (feature ready for expansion).
 
 ---
 
@@ -117,21 +117,6 @@ ollama pull gemma3
 - PraisonAI
 - Ollama (with Gemma 3 model installed)
 - (Optional) Stable Diffusion installed locally to test outputs
-
----
-
-## 🎯 Future Improvements
-
-- Integrate direct **Stable Diffusion image generation**.
-- Add **style presets** (e.g., "anime", "cyberpunk", "realistic").
-- Enhance **image upload** influence over generated prompts.
-- Mobile responsiveness.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use and modify!
 
 ---
 
