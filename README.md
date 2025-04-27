@@ -156,5 +156,5 @@ Here’s how simple it is:
 
 ---
 
-# 🛠️ Made With ❤️ By [Shikhar]
+# 🛠️ Made With ❤️ By Shikhar
 
