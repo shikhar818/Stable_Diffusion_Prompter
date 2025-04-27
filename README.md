@@ -38,7 +38,6 @@
    - `Streamlit` (App Frontend)
    - `Ollama` (Running Gemma 3 model locally)
    - `PraisonAI` (Handling AI agent flows)
-   - `Stable Diffusion prompt design` (Creative writing)
 
 ---
 
