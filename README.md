@@ -6,6 +6,8 @@
 ---
 
 ## 📸 Video
+### Demonstration
+![Video](app/video/1.gif)
 
 ![Video](app/video/video.gif)
 
