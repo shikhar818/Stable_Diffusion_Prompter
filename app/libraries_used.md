@@ -1,11 +1,21 @@
-### Libraries Used, You can use this as requirements.txt if the requirements.txt gets outdated.
+#Libraries Used
+###You can use the following list as a reference for requirements.txt in case it becomes outdated:
 
 streamlit
+
 ollama
+
 langchain_ollama
+
 praisonai
+
 praisonaiagents[llm]
+
 praisonaiagents[knowledge]
-streamlit-option-menu 
+
+streamlit-option-menu
+
 streamlit-extras
-### There's Pydantic issue where it says dict() has depreceated, go to streamhandler.py and change .dict() to .model_dump() that should resolve the issue, else you can leave it too. 
+
+#Pydantic Deprecation Issue
+***There is a known issue with Pydantic where it throws a deprecation warning when calling .dict(). To resolve this, navigate to streamhandler.py and replace .dict() with .model_dump(). Alternatively, you can choose to leave it as is if the warning is not critical for your use case.***
