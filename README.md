@@ -91,7 +91,7 @@ ollama pull gemma3
 streamlit run interface.py
 ```
 ---
-## 🚀 Linux Installation
+## 🚀 Linux(With Conda Only) Installation
 
 1. **Clone the Repository**  
 ```bash
@@ -114,6 +114,7 @@ ollama pull gemma3
 ## 📜 Requirements
 
 - Python 3.11
+- Miniconda 
 - Streamlit
 - PraisonAI
 - Ollama (with Gemma 3 model installed)
