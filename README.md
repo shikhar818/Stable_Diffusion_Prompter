@@ -127,13 +127,6 @@ ollama pull gemma3
 - Enhance **image upload** influence over generated prompts.
 - Mobile responsiveness.
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use and modify!
-
----
 
 # 🚀 Quick Preview
 
