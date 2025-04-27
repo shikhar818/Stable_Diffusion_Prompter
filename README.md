@@ -7,7 +7,7 @@
 
 ## 📸 Video
 
-
+![Video](app/video/video.gif)
 
 
 ---
