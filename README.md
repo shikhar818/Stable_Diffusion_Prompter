@@ -87,7 +87,7 @@ ollama pull gemma3
 
 4. **Run the Streamlit App**  
 ```bash
-streamlit run app.py
+streamlit run interface.py
 ```
 ---
 ## 🚀 Linux Installation
