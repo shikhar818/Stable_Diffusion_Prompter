@@ -75,7 +75,7 @@ git clone https://github.com/your-username/stable-diffusion-prompter.git
 cd stable-diffusion-prompter
 ```
 
-2. **Install Python Packages**  
+2. **Install Python Packages and Launch**  
 ```bash
 pip install -r requirements.txt
 ```
