@@ -17,7 +17,7 @@
 - Enter a **simple idea**( with image for more clear reference) (e.g., "dragon flying over mountains").
 - Let **local AI agents** understand and **enhance** your idea into a **perfect Stable Diffusion prompt**.
 - Copy and paste the result into **Stable Diffusion** or any AI image generator to get better art.
-- Optionally, **upload an image** to inspire future models (feature ready for expansion).
+- Optionally, **upload an image** understanding the posture or postion you may want in the image. (feature ready for expansion).
 
 ---
 
