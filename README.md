@@ -120,14 +120,6 @@ ollama pull gemma3
 
 ---
 
-## 🎯 Future Improvements
-
-- Integrate direct **Stable Diffusion image generation**.
-- Add **style presets** (e.g., "anime", "cyberpunk", "realistic").
-- Enhance **image upload** influence over generated prompts.
-- Mobile responsiveness.
-
-
 # 🚀 Quick Preview
 
 Here’s how simple it is:
